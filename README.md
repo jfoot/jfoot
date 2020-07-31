@@ -1,5 +1,7 @@
 
-<img align="center" src="https://jonathanfoot.com/assets/images/jonathanfoot.png" />
+<a href="https://jonathanfoot.com/">
+  <img align="center" src="https://jonathanfoot.com/assets/images/jonathanfoot.png" />
+</a>
 
 <p align="center">
   
