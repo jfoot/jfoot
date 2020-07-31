@@ -8,12 +8,12 @@
     Linkdin
   </a>
   
- <a href="mailto:enquiries@jonathanfoot.com/">
+ <a href="mailto:enquiries@jonathanfoot.com">
     <img align="center" src="https://jonathanfoot.com/assets/images/emailiconblack.png" width="45" />
       Email
   </a>
   
-   <a href="jonathanfoot.com/">
+   <a href="https://jonathanfoot.com/">
     <img align="center" src="https://jonathanfoot.com/assets/images/linkicon.png" width="40" />
       Website
   </a>
