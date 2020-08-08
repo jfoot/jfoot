@@ -22,6 +22,8 @@
 </p>
 
 
+
+
 ### Hi there 👋
 Welcome to my profile, I'm a student at the University of Nottingham, studying for an MSci in Computer Science. 
 
@@ -34,8 +36,16 @@ A full list of all my projects can be found [on my website here](https://jonatha
 
 
 
+
 ### 📄 Github Stats 
+
+<p align="left">
+    <img align="left" src="https://komarev.com/ghpvc/?username=jfoot&color=blue"/>
+</p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfoot" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jfoot&count_private=true" />
+
+
 
 
