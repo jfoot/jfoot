@@ -19,6 +19,21 @@
     <img align="center" src="https://jonathanfoot.com/assets/images/linkicon.png" width="40" />
       Website
   </a>
+  
+   <a href="https://www.nuget.org/profiles/jfoot">
+    <img align="center" src="https://jonathanfoot.com/assets/images/nuget.png" width="40" />
+      Nuget Profile
+  </a>
+  
+   <a href="https://play.google.com/store/apps/developer?id=Jonathan+Foot">
+    <img align="center" src="https://jonathanfoot.com/assets/images/googlePlay.png" width="40" />
+      Google Play 
+  </a>
+  
+  <a href="https://play.google.com/store/apps/developer?id=Jonathan+Foot">
+    <img align="center" src="https://jonathanfoot.com/assets/images/winStoreblack.png" width="40" />
+      Microsoft Store
+  </a>
 </p>
 
 
