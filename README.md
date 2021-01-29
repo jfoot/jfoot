@@ -21,17 +21,17 @@
   </a>
   
    <a href="https://www.nuget.org/profiles/jfoot">
-    <img align="center" src="https://jonathanfoot.com/assets/images/nuget.png" width="40" />
+    <img align="center" src="https://jonathanfoot.com/assets/images/nuget.png" width="45" />
       Nuget Profile
   </a>
   
    <a href="https://play.google.com/store/apps/developer?id=Jonathan+Foot">
-    <img align="center" src="https://jonathanfoot.com/assets/images/googlePlay.png" width="40" />
+    <img align="center" src="https://jonathanfoot.com/assets/images/googlePlay.png" width="45" />
       Google Play 
   </a>
   
   <a href="https://play.google.com/store/apps/developer?id=Jonathan+Foot">
-    <img align="center" src="https://jonathanfoot.com/assets/images/winStoreblack.png" width="40" />
+    <img align="center" src="https://jonathanfoot.com/assets/images/winStoreblack.png" width="45" />
       Microsoft Store
   </a>
 </p>
