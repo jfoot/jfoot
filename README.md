@@ -36,7 +36,7 @@
   </a>
   
    <a href="https://www.instagram.com/jonathanfoot14/">
-    <img align="center" src="https://jonathanfoot.com/assets/images/instagram.png" width="45" />
+    <img align="center" src="https://jonathanfoot.com/assets/images/instagram.png" width="48" />
       Instagram
   </a>
 </p>
