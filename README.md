@@ -30,7 +30,7 @@
       Google Play 
   </a>
   
-  <a href="https://www.microsoft.com/en-gb/search/shop/apps?q=Jonathan+Foot&Price=0">
+  <a href="https://apps.microsoft.com/store/search?hl=en-gb&gl=gb&publisher=Jonathan%20Foot">
     <img align="center" src="https://jonathanfoot.com/assets/images/winStoreblack.png" width="45" />
       Microsoft Store
   </a>
