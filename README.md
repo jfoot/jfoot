@@ -45,7 +45,7 @@
 
 
 ### Hi there 👋
-Welcome to my profile, I'm a software engineer at Google and recent MSci in Computer Science graduate from the University of Nottingham. 
+Welcome to my profile, I'm a software engineer at Google and a MSci Computer Science graduate from the University of Nottingham. 
 
 I love developing, especially in C# and C++, some of my most popular projects include my live miniature departure board project for the Raspberry Pi, my Notts Hopper Buses android app, my Reading Buses nuget Library and a free educational program to teach and test the topic of Mathematical Transformations! I'm also a bit of a transport nerd, so have quite a few projects working with the Reading Buses API 🚌.
 
